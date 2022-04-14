@@ -1,5 +1,5 @@
 # Genesis [Assignment 9.3]
-![Game Snip](https://raw.githubusercontent.com/ut-kr/Genesis/main/overview/game-snip.gif)
+![Game Snip](https://github.com/Swinny-Tasks/Genesis/blob/main/overview/game-snip.gif?raw=true)
 ## Project Summary
 Genesis is a 2D indie game written in Ruby using the Gosu module. Game objective is to kill all mobs (skulls) possible. <br>
 The player will be able to switch gravity and summon a 1st POV gun.<br>
