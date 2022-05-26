@@ -1,5 +1,8 @@
 # Genesis [Assignment 9.3]
 ![Game Snip](https://github.com/Swinny-Tasks/Genesis/blob/main/overview/game-snip.gif?raw=true)
+<details>
+<summary>Details:</summary>
+
 ## Project Summary
 Genesis is a 2D indie game written in Ruby using the Gosu module. Game objective is to kill all mobs (skulls) possible. <br>
 The player will be able to switch gravity and summon a 1st POV gun.<br>
@@ -85,3 +88,5 @@ Will draw all the substances. Some substances would be drawn only if certain con
 Will   be   used   to   put   certain   functions/procedures   on loop(like   function   for   player’s movement sound), and increment values for the substances which are supposed to update only on player’s interaction.
 #### button_up(id)
 Will be mainly used to stop all the loops started by button_down(id).
+
+</details>
