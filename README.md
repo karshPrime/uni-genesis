@@ -1,5 +1,5 @@
 # Genesis [Assignment 9.3]
-![Game Snip](https://github.com/Swinny-Tasks/Genesis/blob/main/overview/game-snip.gif?raw=true)
+![Game Snip](https://github.com/karshPrime/uni-genesis/blob/main/overview/game-snip.gif?raw=true)
 <details>
 <summary>Details:</summary>
 
@@ -72,11 +72,11 @@ Game uses a bunch of substances to make things look fancier and  less static. Th
 To make the code cleaner, each of these substances will be modularized in their own separate script-files, and one main file- `Genesis.rb` will call and use them.
 
 ### Chart 1: Genesis.rb [Gosu core methods]
-![Chart1](https://github.com/ut-kr/Genesis/blob/main/overview/chart1.png?raw=true)
+![Chart1](https://github.com/karshPrime/uni-genesis/blob/main/overview/chart1.png?raw=true)
 The initialize method will define (mostly) all instance variables that the main class- Genesis will use.
 
 ### Chart 2: Genesis.rb > def initialize()
-![Chart2](https://github.com/ut-kr/Genesis/blob/main/overview/char2.png?raw=true)
+![Chart2](https://github.com/karshPrime/uni-genesis/blob/main/overview/char2.png?raw=true)
 These variables would be later used as parameters for different functions and procedures in other Gosu methods (`update`, `draw`, `button_up(id)` and `button_down(id)`).
 
 ### Other GOSU method’s actions:
@@ -90,3 +90,5 @@ Will   be   used   to   put   certain   functions/procedures   on loop(like   fu
 Will be mainly used to stop all the loops started by button_down(id).
 
 </details>
+
+
